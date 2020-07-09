@@ -1,4 +1,4 @@
-php artisan config:cache
+php artisan config:cache\r\n
 php artisan config:clear
 php artisan cache:clear
 php artisan db:create
